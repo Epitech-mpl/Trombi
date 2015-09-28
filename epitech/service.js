@@ -5,7 +5,7 @@ angular.
 					
 			var $this = this;
 			
-			$this.serviceUrl = '/epitech/service.php';
+			$this.serviceUrl = '/trombi/epitech/service.php';
 			
 			$this.auth = true;
 			
