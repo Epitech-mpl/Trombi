@@ -1,0 +1,868 @@
+{
+	"2020": [
+		{
+			"login": "pantel_c",
+			"lastname": "Pantel",
+			"firstname": "Corentin"
+		},
+		{
+			"login": "truchl_b",
+			"lastname": "Truchlewski",
+			"firstname": "Bartosz"
+		},
+		{
+			"login": "poloss_k",
+			"lastname": "POLOSSAT",
+			"firstname": "Kévin"
+		},
+		{
+			"login": "sebai_i",
+			"lastname": "SEBAI",
+			"firstname": "Ilyes"
+		},
+		{
+			"login": "vuille_f",
+			"lastname": "Vuillemot",
+			"firstname": "Florian"
+		},
+		{
+			"login": "benama_m",
+			"lastname": "BENAMAR",
+			"firstname": "Mahdi"
+		},
+		{
+			"login": "bezouh_s",
+			"lastname": "Bezouh",
+			"firstname": "Soufiane"
+		},
+		{
+			"login": "deguer_r",
+			"lastname": "Deguerville",
+			"firstname": "Romain"
+		},
+		{
+			"login": "dheill_j",
+			"lastname": "DHEILLY",
+			"firstname": "Josselin"
+		},
+		{
+			"login": "castex_t",
+			"lastname": "CASTEX",
+			"firstname": "Thomas"
+		},
+		{
+			"login": "suchy-_b",
+			"lastname": "SUCHY-REINARD",
+			"firstname": "Bastien"
+		},
+		{
+			"login": "jung_c",
+			"lastname": "JUNG",
+			"firstname": "Antoine"
+		},
+		{
+			"login": "combes_b",
+			"lastname": "Adil",
+			"firstname": "Combes"
+		},
+		{
+			"login": "marqui_a",
+			"lastname": "MARQUILLY",
+			"firstname": "Simon"
+		},
+		{
+			"login": "fritsc_g",
+			"lastname": "FRITSCH",
+			"firstname": "Guillaume"
+		},
+		{
+			"login": "dorand_n",
+			"lastname": "Dorandeu--tayan",
+			"firstname": "Nicolas"
+		},
+		{
+			"login": "chauvi_d",
+			"lastname": "CHAUVIN",
+			"firstname": "Antoine"
+		},
+		{
+			"login": "peller_b",
+			"lastname": "PELLERIN",
+			"firstname": "Mathis"
+		},
+		{
+			"login": "metge_q",
+			"lastname": "Metge",
+			"firstname": "Quentin"
+		},
+		{
+			"login": "aerts_j",
+			"lastname": "Aerts",
+			"firstname": "Julien"
+		},
+		{
+			"login": "deforg_a",
+			"lastname": "Deforges",
+			"firstname": "Antoine"
+		},
+		{
+			"login": "de-lai_r",
+			"lastname": "DE LAITRE",
+			"firstname": "Romain"
+		},
+		{
+			"login": "chikho_b",
+			"lastname": "CHIKHOUNE",
+			"firstname": "Benjamin"
+		},
+		{
+			"login": "palmit_a",
+			"lastname": "PALMITJAVILA",
+			"firstname": "Alex"
+		},
+		{
+			"login": "aubane_m",
+			"lastname": "AUBANEL",
+			"firstname": "Maxime"
+		},
+		{
+			"login": "scoto-_d",
+			"lastname": "Scoto di suoccio",
+			"firstname": "Dylan"
+		},
+		{
+			"login": "lhomme_i",
+			"lastname": "LHOMMELET",
+			"firstname": "Ismaël"
+		},
+		{
+			"login": "mansou_y",
+			"lastname": "MANSOURI",
+			"firstname": "Yamine"
+		},
+		{
+			"login": "sebag_f",
+			"lastname": "SEBAG",
+			"firstname": "FLORENT"
+		},
+		{
+			"login": "hatty_o",
+			"lastname": "HATTY",
+			"firstname": "Oscar"
+		},
+		{
+			"login": "carnie_j",
+			"lastname": "CARNIEL",
+			"firstname": "Jules"
+		},
+		{
+			"login": "iuncke_j",
+			"lastname": "IUNCKER",
+			"firstname": "Jordan"
+		},
+		{
+			"login": "grezes_f",
+			"lastname": "GRÈZES",
+			"firstname": "François"
+		},
+		{
+			"login": "navard_q",
+			"lastname": "Navard",
+			"firstname": "Quentin"
+		},
+		{
+			"login": "cerbon_e",
+			"lastname": "CERBONNE",
+			"firstname": "Enzo"
+		},
+		{
+			"login": "flores_b",
+			"lastname": "FLORES",
+			"firstname": "Arnaud"
+		},
+		{
+			"login": "diagne_n",
+			"lastname": "Diagne",
+			"firstname": "Nicolas"
+		},
+		{
+			"login": "naegel_v",
+			"lastname": "NAEGELY",
+			"firstname": "Victor"
+		},
+		{
+			"login": "lecler_2",
+			"lastname": "LECLERC",
+			"firstname": "Mickaël"
+		},
+		{
+			"login": "corvin_a",
+			"lastname": "Corvino",
+			"firstname": "Alexandre"
+		},
+		{
+			"login": "cauvin_m",
+			"lastname": "Cauvin",
+			"firstname": "Maxime"
+		},
+		{
+			"login": "deveau_a",
+			"lastname": "DEVEAU",
+			"firstname": "Arthur"
+		},
+		{
+			"login": "marito_v",
+			"lastname": "Mariton",
+			"firstname": "Victor"
+		},
+		{
+			"login": "beurie_v",
+			"lastname": "BEURIER",
+			"firstname": "Vetea"
+		},
+		{
+			"login": "trille_c",
+			"lastname": "Trilles",
+			"firstname": "Clement"
+		},
+		{
+			"login": "hummel_e",
+			"lastname": "Hummel",
+			"firstname": "Eddy"
+		},
+		{
+			"login": "chenne_a",
+			"lastname": "CHENNETIER",
+			"firstname": "Arthur"
+		},
+		{
+			"login": "marye_s",
+			"lastname": "MARYE",
+			"firstname": "Salomé"
+		},
+		{
+			"login": "isidor_m",
+			"lastname": "ISIDORE",
+			"firstname": "Matthew"
+		},
+		{
+			"login": "dury_b",
+			"lastname": "DURY",
+			"firstname": "Antoine"
+		},
+		{
+			"login": "moreto_t",
+			"lastname": "MORETO",
+			"firstname": "Théo"
+		},
+		{
+			"login": "rozier_s",
+			"lastname": "ROZIER",
+			"firstname": "Simon"
+		},
+		{
+			"login": "aguila_j",
+			"lastname": "AGUILAR",
+			"firstname": "Julien"
+		},
+		{
+			"login": "lelong_v",
+			"lastname": "Lelong",
+			"firstname": "Vincent"
+		},
+		{
+			"login": "gambar_p",
+			"lastname": "Gambardella",
+			"firstname": "Paolo"
+		},
+		{
+			"login": "sanche_f",
+			"lastname": "SANCHEZ",
+			"firstname": "Tomas"
+		},
+		{
+			"login": "migone_j",
+			"lastname": "Migone",
+			"firstname": "Jean-Baptiste"
+		},
+		{
+			"login": "canac_a",
+			"lastname": "CANAC",
+			"firstname": "Benjamin"
+		},
+		{
+			"login": "laland_b",
+			"lastname": "Lalande",
+			"firstname": "Lewis"
+		},
+		{
+			"login": "care_m",
+			"lastname": "CARE",
+			"firstname": "Maxime"
+		},
+		{
+			"login": "quinti_l",
+			"lastname": "QUINTIN",
+			"firstname": "Louis"
+		},
+		{
+			"login": "anahor_r",
+			"lastname": "ANAHORY",
+			"firstname": "Raphaël"
+		},
+		{
+			"login": "gancar_d",
+			"lastname": "GANCARCZYK",
+			"firstname": "David"
+		},
+		{
+			"login": "dufour_o",
+			"lastname": "Dufour",
+			"firstname": "Louis"
+		},
+		{
+			"login": "larriv_a",
+			"lastname": "LARRIVE JAHAN",
+			"firstname": "Auguste"
+		},
+		{
+			"login": "przyby_a",
+			"lastname": "PRZYBYLA",
+			"firstname": "César"
+		},
+		{
+			"login": "delapl_i",
+			"lastname": "DELAPLACE HARO",
+			"firstname": "Ivan"
+		},
+		{
+			"login": "benoit_g",
+			"lastname": "Benoit",
+			"firstname": "Julien"
+		},
+		{
+			"login": "thoma_e",
+			"lastname": "thomas",
+			"firstname": "hugo"
+		},
+		{
+			"login": "allame_e",
+			"lastname": "ALLAMEL",
+			"firstname": "Enguerrand"
+		},
+		{
+			"login": "sauvai_l",
+			"lastname": "SAUVAIRE",
+			"firstname": "Lorenzo"
+		},
+		{
+			"login": "calame_j",
+			"lastname": "CALAMEL",
+			"firstname": "Joris"
+		},
+		{
+			"login": "marie_f",
+			"lastname": "Marie",
+			"firstname": "Florian"
+		},
+		{
+			"login": "pruvos_b",
+			"lastname": "Pruvost",
+			"firstname": "Arthur"
+		},
+		{
+			"login": "herbau_a",
+			"lastname": "Herbaux",
+			"firstname": "Jean-Sébastien"
+		},
+		{
+			"login": "busque_p",
+			"lastname": "Busquets",
+			"firstname": "Paul"
+		},
+		{
+			"login": "lecont_m",
+			"lastname": "LECONTE",
+			"firstname": "Marc-Antoine"
+		},
+		{
+			"login": "ferlet_n",
+			"lastname": "FERLET",
+			"firstname": "Nicolas"
+		},
+		{
+			"login": "lagran_j",
+			"lastname": "LAGRANGE",
+			"firstname": "Jean"
+		},
+		{
+			"login": "margar_v",
+			"lastname": "Margaria",
+			"firstname": "Vince"
+		},
+		{
+			"login": "vandor_t",
+			"lastname": "VAN DORP",
+			"firstname": "Thibaut"
+		},
+		{
+			"login": "delord_p",
+			"lastname": "DELORD",
+			"firstname": "Pascal"
+		},
+		{
+			"login": "lemoin_f",
+			"lastname": "lemoine",
+			"firstname": "Clément"
+		},
+		{
+			"login": "aga_a",
+			"lastname": "aga",
+			"firstname": "adran"
+		},
+		{
+			"login": "balon_l",
+			"lastname": "balon",
+			"firstname": "Leïla"
+		},
+		{
+			"login": "mcleish",
+			"lastname": "mcleish",
+			"firstname": "alex"
+		}
+	],
+	"2019": [
+		{
+			"login": "soulie_b",
+			"lastname": "SOULIES",
+			"firstname": "Clément"
+		},
+		{
+			"login": "salete_s",
+			"lastname": "Saletes",
+			"firstname": "Sébastien"
+		},
+		{
+			"login": "coutur_c",
+			"lastname": "COUTURES",
+			"firstname": "Etienne"
+		},
+		{
+			"login": "boyer_c",
+			"lastname": "BOYER",
+			"firstname": "Bastien"
+		},
+		{
+			"login": "fenass_b",
+			"lastname": "FENASSE",
+			"firstname": "Benjamin"
+		},
+		{
+			"login": "canet_r",
+			"lastname": "CANET",
+			"firstname": "Remi"
+		},
+		{
+			"login": "charpa_j",
+			"lastname": "CHARPAGNE",
+			"firstname": "Jimmy"
+		},
+		{
+			"login": "rio_s",
+			"lastname": "Rio",
+			"firstname": "Samuel"
+		},
+		{
+			"login": "frazzo_j",
+			"lastname": "FRAZZOLI",
+			"firstname": "José"
+		},
+		{
+			"login": "diafou_j",
+			"lastname": "Diafouka",
+			"firstname": "Jonathan"
+		},
+		{
+			"login": "gazagn_l",
+			"lastname": "GAZAGNE",
+			"firstname": "Louis"
+		},
+		{
+			"login": "mar_p",
+			"lastname": "MARTIN",
+			"firstname": "Cédric"
+		},
+		{
+			"login": "avelin_j",
+			"lastname": "Aveline",
+			"firstname": "Jordan"
+		},
+		{
+			"login": "walter_e",
+			"lastname": "WALTER",
+			"firstname": "Enzo"
+		},
+		{
+			"login": "mascre_x",
+			"lastname": "Mascré",
+			"firstname": "Xavier"
+		},
+		{
+			"login": "pyram_m",
+			"lastname": "Pyram",
+			"firstname": "Maxime"
+		},
+		{
+			"login": "pazat_m",
+			"lastname": "PAZAT",
+			"firstname": "Marc"
+		},
+		{
+			"login": "escoba_j",
+			"lastname": "Escobar",
+			"firstname": "Joffrey"
+		},
+		{
+			"login": "joeger_o",
+			"lastname": "JOEGER",
+			"firstname": "Oriane"
+		},
+		{
+			"login": "care_j",
+			"lastname": "Caré",
+			"firstname": "jeremy"
+		},
+		{
+			"login": "fraiss_c",
+			"lastname": "FRAISSE",
+			"firstname": "Charles"
+		},
+		{
+			"login": "belfio_u",
+			"lastname": "BELFIORE",
+			"firstname": "Ugo"
+		},
+		{
+			"login": "gilson_h",
+			"lastname": "Gilson",
+			"firstname": "Hugo"
+		},
+		{
+			"login": "galibe_s",
+			"lastname": "GALIBERT",
+			"firstname": "Stéphane"
+		},
+		{
+			"login": "msa_m",
+			"lastname": "MSA",
+			"firstname": "Matheo"
+		},
+		{
+			"login": "soto_a",
+			"lastname": "SOTO",
+			"firstname": "Adam"
+		},
+		{
+			"login": "rifki_i",
+			"lastname": "RIFKI",
+			"firstname": "ILLIASSE"
+		},
+		{
+			"login": "brunck_a",
+			"lastname": "Brunck",
+			"firstname": "Arthur"
+		},
+		{
+			"login": "liege_m",
+			"lastname": "Liege",
+			"firstname": "Maxime"
+		},
+		{
+			"login": "marcot_f",
+			"lastname": "MARCOTTE-RUFFIN",
+			"firstname": "Felix"
+		},
+		{
+			"login": "rascol_b",
+			"lastname": "Rascol",
+			"firstname": "Benjamin"
+		},
+		{
+			"login": "cherim_s",
+			"lastname": "CHÉRIMONT",
+			"firstname": "Samuël"
+		},
+		{
+			"login": "fernan_s",
+			"lastname": "fernandez",
+			"firstname": "quentin"
+		},
+		{
+			"login": "vial-d_j",
+			"lastname": "Vial-Detambel",
+			"firstname": "Julien"
+		},
+		{
+			"login": "toozs-_c",
+			"lastname": "TOOZS-HOBSON",
+			"firstname": "Cristopher"
+		},
+		{
+			"login": "micall_t",
+			"lastname": "Micallef",
+			"firstname": "Thomas"
+		},
+		{
+			"login": "goutfe_b",
+			"lastname": "GOUTFER",
+			"firstname": "Benjamin"
+		},
+		{
+			"login": "pallua_j",
+			"lastname": "PALLUAU",
+			"firstname": "Jules"
+		},
+		{
+			"login": "trambe_m",
+			"lastname": "trambert",
+			"firstname": "manuel"
+		},
+		{
+			"login": "tixado_d",
+			"lastname": "Tixador",
+			"firstname": "Dany"
+		},
+		{
+			"login": "miro_g",
+			"lastname": "Miro",
+			"firstname": "Gabriel"
+		},
+		{
+			"login": "julien_k",
+			"lastname": "JULIEN",
+			"firstname": "Kévin"
+		},
+		{
+			"login": "hottel_p",
+			"lastname": "Hottelart",
+			"firstname": "Pierre"
+		},
+		{
+			"login": "oliva_c",
+			"lastname": "oliva",
+			"firstname": "clément"
+		},
+		{
+			"login": "jussea_m",
+			"lastname": "Jusseaume",
+			"firstname": "Mehdi"
+		},
+		{
+			"login": "albien_g",
+			"lastname": "ALBIEN",
+			"firstname": "Gauthier"
+		},
+		{
+			"login": "passel_o",
+			"lastname": "Passelaigue",
+			"firstname": "olivier"
+		},
+		{
+			"login": "vidot_j",
+			"lastname": "VIDOT",
+			"firstname": "Jean-Denis"
+		},
+		{
+			"login": "rogiss_m",
+			"lastname": "Rogissart",
+			"firstname": "Maxime"
+		}
+	],
+	"2018": [
+		{
+			"login": "doceul_l",
+			"lastname": "DOCEUL",
+			"firstname": "Loïc"
+		},
+		{
+			"login": "fave_r",
+			"lastname": "FAVE",
+			"firstname": "Romaric"
+		},
+		{
+			"login": "maroni_r",
+			"lastname": "MARONIER",
+			"firstname": "ROBIN"
+		},
+		{
+			"login": "lopez_t",
+			"lastname": "LOPEZ",
+			"firstname": "Thibaut"
+		},
+		{
+			"login": "hermit_a",
+			"lastname": "Hermitant",
+			"firstname": "Alexandre"
+		},
+		{
+			"login": "beauge_z",
+			"lastname": "BEAUGELIN",
+			"firstname": "Zackary"
+		},
+		{
+			"login": "sicard_f",
+			"lastname": "SICARD",
+			"firstname": "Flavien"
+		},
+		{
+			"login": "polydo_s",
+			"lastname": "Polydor",
+			"firstname": "Swann"
+		},
+		{
+			"login": "balmes_f",
+			"lastname": "Balmes",
+			"firstname": "Florian"
+		},
+		{
+			"login": "calatr_m",
+			"lastname": "Calatraba",
+			"firstname": "Mickael"
+		},
+		{
+			"login": "yezegu_j",
+			"lastname": "Yezeguelian",
+			"firstname": "Jimmy"
+		},
+		{
+			"login": "bourre_l",
+			"lastname": "Bourrel",
+			"firstname": "Léo"
+		},
+		{
+			"login": "deluss_c",
+			"lastname": "DE LUSSIGNY",
+			"firstname": "Cédric"
+		},
+		{
+			"login": "david_k",
+			"lastname": "DAVID",
+			"firstname": "Paul"
+		},
+		{
+			"login": "wongch_j",
+			"lastname": "Wong Chi Man",
+			"firstname": "Johan"
+		},
+		{
+			"login": "claudo_m",
+			"lastname": "Claudon",
+			"firstname": "Maximilien"
+		},
+		{
+			"login": "coudra_c",
+			"lastname": "coudray",
+			"firstname": "colin"
+		},
+		{
+			"login": "dumasm_d",
+			"lastname": "DUMAS MATHON",
+			"firstname": "Duncan"
+		},
+		{
+			"login": "frayss_v",
+			"lastname": "Fraysse",
+			"firstname": "Victor"
+		},
+		{
+			"login": "odet_a",
+			"lastname": "Odet",
+			"firstname": "Alexandre"
+		},
+		{
+			"login": "jean_c",
+			"lastname": "JEAN",
+			"firstname": "Clément"
+		},
+		{
+			"login": "laaraj_j",
+			"lastname": "LAARAJ",
+			"firstname": "Julien"
+		},
+		{
+			"login": "laport_n",
+			"lastname": "Laporte",
+			"firstname": "Nicolas"
+		},
+		{
+			"login": "lhomme_a",
+			"lastname": "Lhomme",
+			"firstname": "Arnaud"
+		},
+		{
+			"login": "morin_v",
+			"lastname": "MORIN",
+			"firstname": "Vincent"
+		},
+		{
+			"login": "newton_g",
+			"lastname": "NEWTON",
+			"firstname": "Guillaume"
+		},
+		{
+			"login": "tanyer_a",
+			"lastname": "TANYERES",
+			"firstname": "Alexandre"
+		},
+		{
+			"login": "theven_l",
+			"lastname": "Thevenet",
+			"firstname": "Leo"
+		},
+		{
+			"login": "vache_e",
+			"lastname": "Vaché",
+			"firstname": "Edouard"
+		},
+		{
+			"login": "rivier_b",
+			"lastname": "RIVIERE",
+			"firstname": "Nicolas"
+		},
+		{
+			"login": "sanche_c",
+			"lastname": "sanchez",
+			"firstname": "cédric"
+		},
+		{
+			"login": "sendra_a",
+			"lastname": "SENDRA",
+			"firstname": "Alexandre"
+		},
+		{
+			"login": "britto_s",
+			"lastname": "Britto",
+			"firstname": "Sandro"
+		},
+		{
+			"login": "bechad_p",
+			"lastname": "Bechade",
+			"firstname": "Pierre"
+		},
+		{
+			"login": "denche_t",
+			"lastname": "DENCHE",
+			"firstname": "Thibaud"
+		},
+		{
+			"login": "tanguc_s",
+			"lastname": "TANGUC",
+			"firstname": "SERGEN"
+		},
+		{
+			"login": "sari_e",
+			"lastname": "SARI",
+			"firstname": "Eyyüb"
+		}
+	]
+}
