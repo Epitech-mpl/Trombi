@@ -126,11 +126,6 @@
 			"firstname": "Maxime"
 		},
 		{
-			"login": "scoto-_d",
-			"lastname": "Scoto di suoccio",
-			"firstname": "Dylan"
-		},
-		{
 			"login": "lhomme_i",
 			"lastname": "LHOMMELET",
 			"firstname": "Ismaël"
@@ -169,11 +164,6 @@
 			"login": "navard_q",
 			"lastname": "Navard",
 			"firstname": "Quentin"
-		},
-		{
-			"login": "cerbon_e",
-			"lastname": "CERBONNE",
-			"firstname": "Enzo"
 		},
 		{
 			"login": "flores_b",
@@ -414,11 +404,6 @@
 			"login": "lemoin_f",
 			"lastname": "lemoine",
 			"firstname": "Clément"
-		},
-		{
-			"login": "aga_a",
-			"lastname": "aga",
-			"firstname": "adran"
 		},
 		{
 			"login": "balon_l",
