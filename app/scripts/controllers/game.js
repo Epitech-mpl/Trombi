@@ -20,6 +20,7 @@ function GameCtrl($scope, $rootScope, $location, Student) {
   $scope.score = 0;
   $scope.total = 0;
   $scope.successColor = "inherit";
+  $scope.rightAnswer = undefined;
 
   $scope.getNewStudent = function () {
   	var prom = $scope.students[$rootScope.promotion];
@@ -46,7 +47,9 @@ function GameCtrl($scope, $rootScope, $location, Student) {
     if (choice == $scope.student[$rootScope.searchMode]) {
       $scope.successColor = "#A1D490";
       $scope.score = $scope.score + 1;
+      $scope.rightAnswer = undefined;
     } else {
+      $scope.rightAnswer = $scope.student[$rootScope.searchMode];
       $scope.successColor = "#D4A190";
     }
     $scope.total = $scope.total + 1;

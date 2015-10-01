@@ -4,40 +4,36 @@
     <form ng-submit="start()">
       <div class="row">
         <div class="col-md-4">
+          Promotion :
+          <label ng-repeat="prom in promotions">
+            <input type="radio" ng-model="$root.promotion" value="{{prom}}"> {{prom}}
+          </label>
+        </div>
+        <div class="col-md-4">
           Game mode :
-          <br/>
           <label>
             <input type="radio" ng-model="$root.gameMode" value="choices"> 4 Choices
           </label>
-          <br/>
           <label>
             <input type="radio" ng-model="$root.gameMode" value="login"> Hardcore
           </label>
         </div>
         <div class="col-md-4">
           Search mode :
-          <br/>
           <label>
             <input type="radio" ng-model="$root.searchMode" value="firstname"> Firstname
           </label>
-          <br/>
           <label>
             <input type="radio" ng-model="$root.searchMode" value="lastname"> Lastname
           </label>
-          <br/>
           <label>
             <input type="radio" ng-model="$root.searchMode" value="login"> Login
           </label>
-          <br/>
-          <label>
-            Promotion :
-            <select ng-model="$root.promotion">
-              <option ng-repeat="prom in promotions" value="{{prom}}" nb-bind="prom">{{prom}}</option>
-            </select>
-          </label>
         </div>
       </div>
-      <button type="submit">Start</button>
+      <div class="col-md-2 col-md-offset-5">
+        <button type="submit">Start</button>
+      </div>
     </form>
   </p>
 </div>

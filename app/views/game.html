@@ -10,7 +10,9 @@
 		<button type="button" ng-click="giveUp()">Give Up</button>
 	</div>
 	<div ng-show="{{gameMode == 'choices'}}" class="col-md-6">
-		<h4 style="background-color: {{successColor}};">Score : {{score}} / {{total}}<h4>
+		<h4>Score : {{score}} / {{total}}<h4>
+		<p ng-show="rightAnswer" style="background-color: {{successColor}};">{{rightAnswer}}</p>
 		<button ng-repeat="possibleChoice in possibleChoices" type="button" ng-click="checkChoice(possibleChoice)" style="display: block; margin: 5px; text-transform: capitalize;">{{possibleChoice.toLowerCase()}}</button>
 	</div>
 </div>
+<a href="#/"><h5>Restart</h5></a>
