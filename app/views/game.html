@@ -1,6 +1,7 @@
 <div class="row">
 	<div class="col-md-3 col-md-offset-3">
 		<img ng-src="{{'https://cdn.local.epitech.eu/userprofil/profilview/' + student.login + '.jpg'}}" alt="Loading"/>
+		<a href="#/"><h5>Restart</h5></a>
 	</div>
 	<div ng-show="{{gameMode == 'login'}}" class="col-md-6">
 		<input class="pull-left" ng-model="answer" placeholder="{{$root.searchMode}}" required/>
@@ -15,4 +16,3 @@
 		<button ng-repeat="possibleChoice in possibleChoices" type="button" ng-click="checkChoice(possibleChoice)" style="display: block; margin: 5px; text-transform: capitalize;">{{possibleChoice.toLowerCase()}}</button>
 	</div>
 </div>
-<a href="#/"><h5>Restart</h5></a>

@@ -44,16 +44,16 @@ function GameCtrl($scope, $rootScope, $location, Student) {
  	};
 
   $scope.checkChoice = function(choice) {
+    $scope.total = $scope.total + 1;
     if (choice == $scope.student[$rootScope.searchMode]) {
       $scope.successColor = "#A1D490";
       $scope.score = $scope.score + 1;
       $scope.rightAnswer = undefined;
+      $scope.getNewStudent();
     } else {
       $scope.rightAnswer = $scope.student[$rootScope.searchMode];
       $scope.successColor = "#D4A190";
     }
-    $scope.total = $scope.total + 1;
-    $scope.getNewStudent();
   }
 
   $scope.help = function () {
@@ -81,6 +81,7 @@ function GameCtrl($scope, $rootScope, $location, Student) {
 	  $scope.students = Student.allStudents;
 		$scope.getNewStudent();
  	}
+  
  	if (Student.loading != undefined) {
  		Student.loading.success(function () {
  			begin();
